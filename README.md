@@ -1,4 +1,11 @@
-Hi there, I am Shaswat Singh. Computer Science Senior at ASU with internship experience in full-stack development, iOS application development and 
-object-oriented programming. I enjoy learning new languages and frameworks. 
+### Hi there 👋, Shaswat Singh
+#### I am GitHub Readme Generator's creator
+I am Shaswat Singh. Computer Science Senior at ASU with internship experience in full-stack development, iOS application development and object-oriented programming. I enjoy learning new languages and frameworks.
+
+Skills: React / JS / HTML / CSS / Swift / GraphQL / Java / TypeScript / AngularJS / Python / PostgreSQL
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ssing321)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shaswatsingh9/)  
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssing321&show_icons=true&theme=radical)
