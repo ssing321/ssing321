@@ -6,5 +6,3 @@ Skills: React / JS / HTML / CSS / Swift / GraphQL / Java / TypeScript / AngularJ
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ssing321)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shaswatsingh9/)  
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssing321&show_icons=true&theme=radical)
